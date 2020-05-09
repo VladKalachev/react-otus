@@ -27,6 +27,7 @@ module.exports = {
         extensions: [".js", ".jsx", ".ts", ".tsx", ".json"]
     },
     devServer: {
-        historyApiFallback: true
+        historyApiFallback: true,
+        overlay: true
     }
 }
