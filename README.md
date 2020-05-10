@@ -28,3 +28,10 @@ Result: 180
 > 19 + -10
 Result: 9
 ```
+
+## Lesson 3:
+Basic react configuration
+
+* @babel/preset-react
+* Storybook
+* Jest config
