@@ -52,3 +52,9 @@ React and JSX
 * React lifecycles
 * React state/props
 * PureComponent
+
+## Lesson 8:
+* Списки
+* События
+* Формы
+* Рефы
