@@ -46,3 +46,9 @@ React and JSX
 ## Lesson 5:
 * JSX + CSS
 * Project architecture
+
+## Lesson 7:
+
+* React lifecycles
+* React state/props
+* PureComponent
