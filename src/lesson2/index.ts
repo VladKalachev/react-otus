@@ -13,7 +13,7 @@ const question = (): Promise<null> =>
       const result = runner(answer);
 
       if (result) {
-        console.log(`Result: ${result}`);
+        // console.log(`Result: ${result}`);
       }
 
       resolve();

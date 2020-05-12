@@ -35,3 +35,14 @@ Basic react configuration
 * @babel/preset-react
 * Storybook
 * Jest config
+
+## Lesson 4:
+React and JSX
+
+* React elements
+* JSX
+* Component docs
+
+## Lesson 5:
+* JSX + CSS
+* Project architecture

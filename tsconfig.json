@@ -1,11 +1,15 @@
 {
     "compilerOptions": {
-        "target": "es5",
-        "module": "commonjs",
-        "allowJs": true,
-        "jsx": "react",
-        "sourceMap": true,
-        "strict": true,
-        "esModuleInterop": true
+      "baseUrl": "./",
+      "paths": {
+        "types/*": ["src/types/*"]
+      },
+      "target": "es5",
+      "module": "commonjs",
+      "allowJs": true,
+      "jsx": "react",
+      "sourceMap": true,
+      "strict": true,
+      "esModuleInterop": true
     }
-}
+  }
