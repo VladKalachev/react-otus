@@ -19,7 +19,7 @@
   "husky": {
     "hooks": {
       "pre-commit": "npm run lint",
-      "pre-push": "npm run check"
+      "pre-push": "npm run lint && npm test"
     }
   },
   "repository": {
@@ -84,7 +84,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
-  "loki": {
+   "loki": {
     "configurations": {
       "chrome.laptop": {
         "target": "chrome.docker",

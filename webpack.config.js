@@ -34,10 +34,7 @@ module.exports = {
       template: "./public/index.html",
     }),
   ],
-  // build size
   performance: {
     hints: false,
-    maxEntrypointSize: 512000,
-    maxAssetSize: 512000,
   },
 };
