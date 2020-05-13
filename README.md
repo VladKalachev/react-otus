@@ -58,3 +58,18 @@ React and JSX
 * События
 * Формы
 * Рефы
+
+## Lesson 9:
+React Patterns
+* function component;
+* destructuring props;
+* JSX spread attributes;
+* merge destructured props with other values;
+* conditional rendering;
+* children types;
+* array as children;
+* function as children;
+* render prop;
+* children pass-through;
+* proxy component;
+* style component.
