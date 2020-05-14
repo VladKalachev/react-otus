@@ -73,3 +73,12 @@ React Patterns
 * children pass-through;
 * proxy component;
 * style component.
+
+## Lesson 10:
+* React Patterns
+* Event switch
+* Layout component
+* Container component
+* Higher-order component
+* State hoisting
+* Controlled input
