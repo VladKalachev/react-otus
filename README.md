@@ -82,3 +82,8 @@ React Patterns
 * Higher-order component
 * State hoisting
 * Controlled input
+
+## Lesson 11:
+* React Hooks
+* Hooks testing
+* React Fiber
