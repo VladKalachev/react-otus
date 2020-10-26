@@ -88,3 +88,6 @@ React Patterns
 * React Hooks
 * Hooks testing
 * React Fiber
+
+## Lesson 12:
+* React Router
