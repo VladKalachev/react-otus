@@ -91,3 +91,6 @@ React Patterns
 
 ## Lesson 12:
 * React Router
+
+## Lesson 13
+* Functional programming
