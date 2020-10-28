@@ -94,3 +94,5 @@ React Patterns
 
 ## Lesson 13
 * Functional programming
+
+## Lesson 14
