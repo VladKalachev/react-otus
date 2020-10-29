@@ -96,3 +96,4 @@ React Patterns
 * Functional programming
 
 ## Lesson 14
+* Redux
