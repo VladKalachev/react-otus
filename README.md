@@ -100,3 +100,6 @@ React Patterns
 
 ## Lesson 15
 * React + Redux
+
+## Lesson 16
+* React + Redux
