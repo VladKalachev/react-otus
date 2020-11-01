@@ -103,3 +103,6 @@ React Patterns
 
 ## Lesson 16
 * React + Redux
+
+## Lesson 17
+* Redux middlewares
