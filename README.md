@@ -108,3 +108,5 @@ React Patterns
 * Redux middlewares
 
 ## Lesson 18
+* Generators
+* Redux-saga intro
