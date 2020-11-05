@@ -110,3 +110,7 @@ React Patterns
 ## Lesson 18
 * Generators
 * Redux-saga intro
+
+## Lesson 19
+* Integration testing
+* redux-saga-test-plan
