@@ -114,3 +114,6 @@ React Patterns
 ## Lesson 19
 * Integration testing
 * redux-saga-test-plan
+
+## Lesson 20
+* Redux-saga basic concept
