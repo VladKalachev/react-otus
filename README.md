@@ -119,3 +119,4 @@ React Patterns
 * Redux-saga basic concept
 
 ## Lesson 21
+* Architecture
