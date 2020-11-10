@@ -122,3 +122,5 @@ React Patterns
 * Architecture
 
 ## Lesson 22
+
+## Lesson 23
