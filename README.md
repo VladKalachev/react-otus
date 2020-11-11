@@ -124,3 +124,5 @@ React Patterns
 ## Lesson 22
 
 ## Lesson 23
+
+## Lesson 24
