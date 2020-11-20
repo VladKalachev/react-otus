@@ -125,6 +125,7 @@ React Patterns
 * Redux-saga advanced
 
 ## Lesson 23
+* Разработка приложения на React
 
 ## Lesson 24
 
