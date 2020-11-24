@@ -131,6 +131,7 @@ React Patterns
 * Конфигурация приложения
 
 ## Lesson 25
+* Test quality tools
 
 ## Lesson 26
 
