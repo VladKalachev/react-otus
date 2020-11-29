@@ -132,6 +132,7 @@ React Patterns
 
 ## Lesson 25
 * Test quality tools
+* E2E
 
 ## Lesson 26
 
