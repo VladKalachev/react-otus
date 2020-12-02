@@ -139,6 +139,7 @@ React Patterns
 ## Lesson 27
 
 ## Lesson 28
+* Websocket
 
 ## Lesson 29
 
