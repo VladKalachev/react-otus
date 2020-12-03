@@ -140,6 +140,7 @@ React Patterns
 
 ## Lesson 28
 * Websocket
+* Webworker + Comlink
 
 ## Lesson 29
 
