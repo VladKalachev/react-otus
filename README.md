@@ -145,3 +145,4 @@ React Patterns
 ## Lesson 29
 
 ## Lesson 30
+* Обзор GraphQL
