@@ -143,6 +143,7 @@ React Patterns
 * Webworker + Comlink
 
 ## Lesson 29
+* Потоки событий и WebSockets. WebWorkers и comlink для отложенной работы.
 
 ## Lesson 30
 * Обзор GraphQL
