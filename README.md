@@ -147,3 +147,6 @@ React Patterns
 
 ## Lesson 30
 * Обзор GraphQL
+
+## Lesson 31
+* Выбор темы и организация проектной работы
