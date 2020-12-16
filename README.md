@@ -137,6 +137,7 @@ React Patterns
 ## Lesson 26
 
 ## Lesson 27
+* Test quality tools
 
 ## Lesson 28
 * Websocket
