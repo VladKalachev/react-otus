@@ -135,6 +135,7 @@ React Patterns
 * E2E
 
 ## Lesson 26
+* Продвинутая конфигурация приложения
 
 ## Lesson 27
 * Test quality tools
