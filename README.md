@@ -121,6 +121,7 @@ React Patterns
 ## Lesson 21
 * Architecture
 
+
 ## Lesson 22
 * Redux-saga advanced
 
